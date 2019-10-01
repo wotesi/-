@@ -17,7 +17,7 @@ https://blog.kalme.es/
 
 Чтобы набрать Перун в Рунах, наберите эти клавиши "", "", "", "", "".
 ### Description
-To enable writing the text in the **Slavic-Aryan runes**, I offer you to use **Karuna Font**.  
+To enable writing the text in the **Slavic-Aryan Runes**, I offer you to use **Karuna Font**.  
 Slavic-Aryan Runes consist of 144 Runes, called Karuna (Karuna means "set of Runes").
 
 Install **Karuna.ttf** file.  
