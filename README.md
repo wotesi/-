@@ -22,5 +22,9 @@ To type the corresponding Rune, use the table (download and print it) - under th
 
 To type Swastika in Runes, type following keys "W", "Jz", "t", "k".
 ### Файлы / Files
-* Каруна.ttf
-* Каруна.png
+* Karuna.ttf
+* Karuna.png
+### Программное обеспечение / Software
+* Inkscape www.inkscape.org
+* IcoMoon https://icomoon.io
+* Glyphr Studio www.glyphrstudio.com
