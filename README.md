@@ -3,7 +3,8 @@
 ### Автор / Author
 Valters Kalme  
 https://blog.kalme.es/  
-*Коментарии, поправки и отзывы приветствуются на karuna@kalme.es*
+*Коментарии, поправки и отзывы приветствуются на karuna@kalme.es  
+Comments, corrections and reviews are welcome at karuna@kalme.es*
 ### Описание
 Чтобы облегчить написание текста в **Славяно-Арийских Рунах** предлагаю пользоватся **Каруна Шрифтом**.
 
