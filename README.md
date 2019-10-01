@@ -13,18 +13,17 @@ Comments, corrections and reviews are welcome at karuna@kalme.es*
 Инсталируйте **Каруна.ttf** файл.  
 Чтобы набрать соответствуюшую Руну, восполпзуйтесь таблицой (скачайте файл и напечатайте)- под соответсвуюшей Руной написано её название а под названием
 соответствуюшая клавиша (латинская клавиатура) или комбинация клавиш. Большая или маленйкая буква играет роль, даже при комбинации
-несклько клавиш, к примеру "s" даст Руну "ццц" а "S" Руну "". Чтобы набрать Руну "", наберите "Sci" с большой буквой, потому, что
-комбияция "sci" в место "" наберёт три Руны "", "" и "".
+несклько клавиш, к примеру "s" даст Руну "Слово" а "S" Руну "Сон". Чтобы набрать Руну "Щит", наберите "Sci" с большой буквой, потому, что комбияция "sci" в место "Сон" наберёт три Руны "Слово", "Цель" и "Инта".
 
-Чтобы набрать Перун в Рунах, наберите эти клавиши "", "", "", "", "".
+Чтобы набрать слово "Свастика" в Рунах, наберите эти клавиши "W", "Jz", "t", "k".
 ### Description
 To enable writing the text in the **Slavic-Aryan Runes**, I offer you to use **Karuna Font**.  
 Slavic-Aryan Runes consist of 144 Runes, called Karuna (Karuna means "set of Runes").
 
 Install **Karuna.ttf** file.  
-To type the corresponding Rune, use the table (download and print it) - under the corresponding Rune there is written its name and under the name the corresponding key (Latin keyboard) or a combination of keys. A large or small letter plays a role, even within a combination of several keys, for example, "s" will give Rune "tssts" and "S" Rune "". To type Rune "", type "Sci" with a capital letter, because the combination "sci" instead of "" will type three Runes "", "" and "".
+To type the corresponding Rune, use the table (download and print it) - under the corresponding Rune there is written its name and under the name the corresponding key (Latin keyboard) or a combination of keys. A regular or capital letter plays a role, even within a combination of several keys, for example, "s" will give Rune "Слово" (Word) and "S" Rune "Сон" (Dream). To type Rune "Щит" (Shield), type "Sci" with a capital letter, because the combination "sci" instead of "Сон" (Dream) will type three Runes "Слово" (Word), "Цель" (Target) and "Инта" (Inta).
 
-To type Perun in Runes, type following keys "", "", "", "", "".
+To type Swastika in Runes, type following keys "W", "Jz", "t", "k".
 ### Файлы / Files
 * Каруна.ttf
-* Каруна.jpg
+* Каруна.png
