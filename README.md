@@ -1,6 +1,6 @@
-# Славяно-Арийские Руны (Каруна) Шрифт
-## Проект скачать здесь: https://github.com/wotesi/Karuna.git
-### Автор
+# Славяно-Арийские Руны (Каруна) Шрифт /  Slavic-Aryan Runes (Karuna) Font
+## Проект скачать здесь / download here: https://github.com/wotesi/Karuna.git
+### Автор / Author
 Valters Kalme  
 https://blog.kalme.es/  
 *Коментарии, поправки и отзывы приветствуются на karuna@kalme.es*
@@ -16,6 +16,11 @@ https://blog.kalme.es/
 комбияция "sci" в место "" наберёт три Руны "", "" и "".
 
 Чтобы набрать Перун в Рунах, наберите клавиши "", "", "", "", "".
+### Description
+asdasdas
 ### Файлы
 * Каруна.ttf
 * Каруна.jpg
+### Files
+* sadfas
+* asdfasdf
