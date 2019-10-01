@@ -24,9 +24,6 @@ Install **Karuna.ttf** file.
 To type the corresponding Rune, use the table (download and print it) - under the corresponding Rune there is written its name and under the name the corresponding key (Latin keyboard) or a combination of keys. A large or small letter plays a role, even within a combination of several keys, for example, "s" will give Rune "tssts" and "S" Rune "". To type Rune "", type "Sci" with a capital letter, because the combination "sci" instead of "" will type three Runes "", "" and "".
 
 To type Perun in Runes, type following keys "", "", "", "", "".
-### Файлы
+### Файлы / Files
 * Каруна.ttf
 * Каруна.jpg
-### Files
-* sadfas
-* asdfasdf
