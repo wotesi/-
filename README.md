@@ -1,4 +1,4 @@
-# Славяно-Арийские Руны (Каруна) Шрифт /  Slavic-Aryan Runes (Karuna) Font
+# х’Арийские Руны (Каруна) Шрифт /  х’Aryan Runes (Karuna) Font
 ## Проект скачать здесь / download here: https://github.com/wotesi/Karuna.git
 ### Автор / Author
 Valters Kalme  
@@ -6,7 +6,7 @@ https://blog.kalme.es/
 *Коментарии, поправки и отзывы приветствуются на karuna@kalme.es  
 Comments, corrections and reviews are welcome at karuna@kalme.es*
 ### Описание
-Чтобы облегчить написание текста в **Славяно-Арийских Рунах** предлагаю пользоваться **Каруна Шрифтом**.
+Чтобы облегчить написание текста в **х’Арийских Рунах** предлагаю пользоваться **Каруна Шрифтом**.
 Славяно-Арийские Руны состоят из 144 Рун, называется Каруна (Каруна означает "комплект Рун").
 
 Инсталлируйте **Karuna.ttf** шрифт, запустите любой текстовый редактор, выберите шрифт Karuna и пишите как обычно.  
@@ -14,7 +14,7 @@ Comments, corrections and reviews are welcome at karuna@kalme.es*
 Чтобы набрать слово "Свастика" в Рунах, наберите эти клавиши "W", "Jz", "t", "k".
 
 ### Description
-To enable writing the text in the **Slavic-Aryan Runes**, I offer you to use **Karuna Font**.  
+To enable writing the text in the **х’Aryan Runes**, I offer you to use **Karuna Font**.  
 Slavic-Aryan Runes consist of 144 Runes, called Karuna (Karuna means "set of Runes").
 
 Install **Karuna.ttf** file, start any text editor, select the Karuna font and write as usual.  
