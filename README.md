@@ -31,4 +31,4 @@ To type Swastika in Runes, type following keys "W", "Jz", "t", "k".
 ### Обнавления / Updates
 **19.10.2019:**
 * Новяый PNG файл, поправки в названиях некоторых Рун
-* New PNG file, corrected some names of Runa
+* New PNG file, corrected names of some Runa
